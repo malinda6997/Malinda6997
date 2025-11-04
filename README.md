@@ -23,35 +23,23 @@
 
 ## 🧰 Tools & Technologies
 
-### 🧮 Data Analysis
+### 📊 Data Analysis Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,excel,pandas,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,sql,mongodb" />
 </p>
 
-### ⚙️ DevOps
+### ⚙️ DevOps & Cloud Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,git,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux" />
 </p>
 
----
+### 🧪 Testing & Development Tools
 
-## 📈 Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malinda6997&bg_color=0f2027&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=selenium,postman,vscode,figma" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malinda6997&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 My Projects
-
-💼 *Projects section coming soon... stay tuned for exciting work in Data Analysis and DevOps!*
 
 ---
 
