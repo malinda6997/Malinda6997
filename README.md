@@ -51,17 +51,20 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malinda6997&bg_color=0b1220&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malinda6997&bg_color=0b1220&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" width="90%" alt="GitHub Activity Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=malinda6997&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=malinda6997&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinda6997&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malinda6997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinda6997&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/malinda6997/README-snakes-animation/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" />
+</p>
+
 
 ---
 
