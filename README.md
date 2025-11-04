@@ -61,11 +61,6 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/malinda6997/README-snakes-animation/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" />
-</p>
-
-
 ---
 
 ## 📫 Contact Me
