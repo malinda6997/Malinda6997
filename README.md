@@ -1,9 +1,5 @@
 # 👋 Hi, I’m Malinda Prabath
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="80"/>
-</p>
-
 <h1 align="center">🚀 Data Analyst | DevOps Enthusiast | Tech Explorer</h1>
 
 <p align="center">
