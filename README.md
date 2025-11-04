@@ -55,7 +55,6 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=malinda6997&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=malinda6997&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
