@@ -25,9 +25,6 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
   <a href="https://www.linkedin.com/in/malinda-prabath-b401271a0">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-Malinda%20Prabath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:malindaprabath876@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-malindaprabath876@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -73,12 +70,15 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
   <a href="mailto:malindaprabath876@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="35" height="35" alt="Gmail"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/malinda-prabath-b401271a0">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35" alt="LinkedIn"/>
   </a>
+  
   <a href="https://github.com/malinda6997">
     <img src="https://img.icons8.com/ios-glyphs/48/61dafb/github.png" width="35" height="35" alt="GitHub"/>
   </a>
+  
 </p>
 
 <p align="center">
