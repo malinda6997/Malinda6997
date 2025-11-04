@@ -4,15 +4,17 @@
   Theme: Tokyo Night Inspired
 -->
 
-<h1 align="center">Hi, I'm Malinda Prabath 👋</h1>
+<!-- Typing animation (auto-type) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61dafb&center=true&vCenter=true&width=800&lines=Hi,+I'm+Malinda+Prabath;Data+Analyst+%7C+DevOps+Engineer+%7C+UI%2FUX+Designer;Frontend+Developer+%7C+QA+Automation" alt="Typing SVG" />
+</p>
 
 <h3 align="center">
-Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automation Enthusiast
+Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automation
 </h3>
 
-<p align="center">
-  <em>Turning ideas into solutions — automating workflows, visualizing data, and crafting smooth digital experiences.</em>
-</p>
+<p align="center"><em>Building reliable cloud infra, automating pipelines, and turning data into actionable insights.</em></p>
+
 
 ---
 
