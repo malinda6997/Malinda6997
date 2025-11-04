@@ -15,17 +15,6 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
 
 <p align="center"><em>Building reliable cloud infra, automating pipelines, and turning data into actionable insights.</em></p>
 
-
----
-
-<p align="center">
-  <a href="https://github.com/malinda6997">
-  </a>
-  <a href="https://www.linkedin.com/in/malinda-prabath-b401271a0">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-Malinda%20Prabath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## ⚡ Quick Bio
@@ -49,8 +38,6 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" alt="AWS"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" height="40" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/terraform.png" width="40" height="40" alt="Terraform"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40" alt="Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="40" height="40" alt="Postman"/>
   <img src="https://img.icons8.com/color/48/000000/selenium.png" width="40" height="40" alt="Selenium"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" width="40" height="40" alt="Figma"/>
