@@ -41,8 +41,22 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
 ## 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,powerbi,excel,sql,mongodb,aws,docker,terraform,linux,postman,selenium,vscode,figma,github" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="40" height="40" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" height="40" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" width="40" height="40" alt="Terraform"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="40" height="40" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/selenium.png" width="40" height="40" alt="Selenium"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" width="40" height="40" alt="Figma"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/61dafb/github.png" width="40" height="40" alt="GitHub"/>
 </p>
+
 
 ---
 
