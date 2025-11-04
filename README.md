@@ -1,55 +1,31 @@
-# 👋 Hi, I’m Malinda Prabath
+# 👋 Hi, I'm Malinda Prabath
 
-<h1 align="center">🚀 Data Analyst | DevOps Enthusiast | Tech Explorer</h1>
+## 🚀 About Me
 
-<p align="center">
-  <em>Passionate about turning data into insights and automating workflows with modern DevOps tools.</em>
-</p>
+I'm a passionate **Data Analyst** and **DevOps Enthusiast** who loves exploring data insights and automating cloud solutions. I enjoy working with modern tools to build efficient workflows and scalable systems.
 
 ---
 
-## 💡 About Me
+## 🧠 Data Analysis Tools
 
-* 🎓 Undergraduate in Business Information Systems
-* 📊 Interested in **Data Analysis, Cloud, and DevOps**
-* ☁️ Learning **AWS | Docker | Jenkins | Terraform**
-* 💬 Always exploring how data and automation work together to improve efficiency.
+`Power BI` · `Python` · `Excel` · `SQL` · `MongoDB`
 
 ---
 
-## 🧰 Tools & Technologies
+## ⚙️ DevOps & Development Tools
 
-### 📊 Data Analysis Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,sql,mongodb" />
-</p>
-
-### ⚙️ DevOps & Cloud Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux" />
-</p>
-
-### 🧪 Testing & Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,postman,vscode,figma" />
-</p>
+`Docker` · `AWS` · `Terraform` · `Linux` · `Postman` · `Selenium` · `VS Code` · `Figma`
 
 ---
 
-## 📫 Connect with Me
+## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/malinda-prabath-b401271a0" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:malindaprabath876@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
-<p align="center">
-  📞 <strong>076 220 6157</strong>
-</p>
+![Malinda’s GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=malinda6997\&theme=tokyonight)
 
 ---
 
-<p align="center">✨ Crafted with passion by <strong>Malinda Prabath</strong> — Data & DevOps Enthusiast 🌱</p>
+## 📫 Contact Me
+
+📧 **Email:** [malindaprabath876@gmail.com](mailto:malindaprabath876@gmail.com)
+🔗 **LinkedIn:** [www.linkedin.com/in/malinda-prabath-b401271a0](https://www.linkedin.com/in/malinda-prabath-b401271a0)
+📞 **Phone:** +94 76 220 6157
