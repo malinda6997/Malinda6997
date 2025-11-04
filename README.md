@@ -5,10 +5,10 @@
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="animated-banner" width="100%" />
+ hi Im Malinda Prabath
 </p>
 
-<h1 align="center">Cloud & DevOps Engineer / Data Analyst | DevOps Learner</h1>
+<h1 align="center">Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automation</h1>
 <p align="center"><em>Building reliable cloud infra, automating pipelines, and turning data into actionable insights.</em></p>
 
 ---
@@ -23,11 +23,11 @@
 
 ## ⚡ Quick Bio
 
-* 🎓 Undergraduate — Business Information Systems
-* 🔭 Focus: **Cloud Infrastructure**, **CI/CD**, **Automation**, **Data Analysis**
-* 🌱 Learning: Advanced Terraform patterns, AWS services, and production CI/CD
-* 💬 Fluent in English & Sinhala
-
+*🎓 Undergraduate — Business Information Systems
+*🔭 Focus: Data Analysis, Cloud Technologies, UI/UX Design, and DevOps Automation
+*💼 Currently working as a Freelancer, focusing on real-world projects related to data analysis, cloud infrastructure, and UI/UX design
+*🌱 Learning: Advanced Data Visualization, Power BI automation, AWS & Docker workflows
+*💬 Fluent in: English & Sinhala, passionate about collaboration and clean design
 ---
 
 ## 🛠️ Tech & Tools
