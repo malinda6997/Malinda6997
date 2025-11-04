@@ -20,8 +20,6 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
 
 <p align="center">
   <a href="https://github.com/malinda6997">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=malinda6997&theme=tokyonight&hide_border=true" width="49%" />
- 
   </a>
   <a href="https://www.linkedin.com/in/malinda-prabath-b401271a0">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-Malinda%20Prabath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -54,12 +52,12 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=malinda6997&bg_color=0b1220&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" width="90%"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=malinda6997&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=malinda6997&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinda6997&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
