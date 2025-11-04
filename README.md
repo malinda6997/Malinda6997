@@ -20,7 +20,8 @@ Data Analyst | DevOps Engineer | UI/UX Designer | Frontend Developer | QA Automa
 
 <p align="center">
   <a href="https://github.com/malinda6997">
-    <img alt="GitHub" src="https://img.shields.io/badge/-malinda6997-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=malinda6997&theme=tokyonight&hide_border=true" width="49%" />
+ 
   </a>
   <a href="https://www.linkedin.com/in/malinda-prabath-b401271a0">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-Malinda%20Prabath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
