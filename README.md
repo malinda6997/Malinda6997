@@ -29,16 +29,27 @@ IT undergraduate with a broad technical foundation across **cloud infrastructure
 
 ---
 
-## Skills
+## Technical Skills
 
-| Domain | Technologies |
+| Domain | Tools & Technologies |
 |---|---|
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,jenkins,githubactions,linux,bash&theme=dark" height="48" /> |
-| **QA Automation** | <img src="https://skillicons.dev/icons?i=selenium,cypress,postman&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest" /> |
-| **Data & Analytics** | <img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/pandas/8B9DFF" height="40" alt="pandas" /> <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="40" alt="numpy" /> <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" /> |
-| **Development** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,tailwind,html,css&theme=dark" height="48" /> |
-| **Monitoring & Tools** | <img src="https://skillicons.dev/icons?i=grafana,prometheus,git,github,vscode&theme=dark" height="48" /> |
-| **Networking** | TCP/IP · DNS · VPC · Routing & Switching · Cisco Packet Tracer |
+| **Cloud** | `AWS` `EC2` `S3` `Lambda` `CloudFront` `CloudWatch` `SNS` `EventBridge` |
+| **DevOps** | `Terraform` `Docker` `Jenkins` `GitHub Actions` `Linux` `Bash` |
+| **QA Automation** | `Selenium` `Cypress` `Pytest` `Postman` |
+| **Data** | `Python` `Pandas` `NumPy` `SQL` `MySQL` `PostgreSQL` `Power BI` |
+| **Development** | `React` `Next.js` `Node.js` `JavaScript` `Tailwind CSS` `HTML` `CSS` |
+| **Monitoring** | `Grafana` `Prometheus` `CloudWatch` |
+| **Networking** | `TCP/IP` `DNS` `VPC` `Routing & Switching` `Cisco Packet Tracer` |
+| **Tools** | `Git` `GitHub` `VS Code` |
+
+---
+
+## Core Strengths
+
+- **Automation first:** turning manual, repetitive tasks into reliable pipelines and scripts
+- **Cross-domain thinking:** connecting infrastructure, testing, and data to deliver complete solutions
+- **Quality mindset:** building with testing, monitoring, and security in mind
+- **Continuous learning:** picking up new tools quickly and applying them in practice
 
 ---
 
