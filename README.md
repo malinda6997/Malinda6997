@@ -1,107 +1,53 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=140&section=header" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Malinda+Prabath;Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Jenkins;Python+Developer;Always+Learning+•+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Malinda+Prabath;Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Jenkins;Building+reliable+systems+through+automation" alt="Typing animation" />
 </p>
 
-<h3 align="center">
-Cloud • DevOps • Automation • Software Engineering
-</h3>
-
 <p align="center">
-<a href="mailto:malindaprabath876@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/malinda-prabath-b401271a0">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/malinda6997">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="mailto:malindaprabath876@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/malinda-prabath-b401271a0"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/malinda6997"><img src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## About
 
-I'm an IT undergraduate passionate about **Cloud Computing, DevOps Engineering, and Software Development**.
+IT undergraduate focused on **Cloud Computing, DevOps, and Software Development**. I design cloud infrastructure, automate delivery pipelines, and deploy scalable applications.
 
-I enjoy building cloud infrastructure, automating software delivery, deploying scalable applications, and continuously learning modern technologies.
-
-- ☁️ AWS Cloud Infrastructure
-- 🚀 CI/CD Pipelines
-- 🏗️ Infrastructure as Code (Terraform)
-- 🐳 Docker & Containerization
-- 🐧 Linux Administration
-- 🐍 Python Development & Automation
-- 🌐 React & Next.js
-- 📊 Monitoring & Observability
-- 🔐 Cloud Security & DevSecOps
+**Focus areas:** AWS Infrastructure · CI/CD · Infrastructure as Code · Containerization · Monitoring & Observability · DevSecOps
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins,githubactions,linux,bash,python,javascript,nodejs,react,nextjs,html,css,tailwind,mysql,mongodb,git,github,vscode,postman,figma&perline=11" />
-
----
-
-# 🚀 Featured Projects
-
-| Project | Technologies |
-|---------|--------------|
-| ☁️ AWS Serverless Website Monitoring | AWS Lambda • SNS • EventBridge • Python |
-| 🚀 ERP Frontend Deployment | React • AWS S3 • CloudFront • Terraform |
-| 🐳 Containerized AI Application | Docker • Jenkins • AWS EC2 |
-| 📊 Monitoring Dashboard | Grafana • CloudWatch |
-| 💻 Photography POS System | Python • SQLite |
-| 🤖 Gemini AI Clone | React • Docker • Jenkins |
+| | |
+|---|---|
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,jenkins,githubactions,linux,bash&theme=dark" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /> |
+| **Data & Tools** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,postman&theme=dark" /> |
 
 ---
 
-# 📈 Contribution Graph
+## Featured Projects
+
+| Project | Stack |
+|---|---|
+| **AWS Serverless Website Monitoring** | Lambda · SNS · EventBridge · Python |
+| **ERP Frontend Deployment** | React · S3 · CloudFront · Terraform |
+| **Containerized AI Application** | Docker · Jenkins · EC2 |
+| **Monitoring Dashboard** | Grafana · CloudWatch |
+| **Photography POS System** | Python · SQLite |
+| **Gemini AI Clone** | React · Docker · Jenkins |
+
+---
+
+## Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=malinda6997&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malinda6997&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:malindaprabath876@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/malinda-prabath-b401271a0">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/malinda6997">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Building reliable cloud solutions through automation and continuous learning.
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" />
